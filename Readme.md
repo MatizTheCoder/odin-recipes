@@ -1,3 +1,3 @@
 # ODIN-RECIPES
 
-This repository created as The Odin Project, Project.
+This repository created as TOP, Project.
